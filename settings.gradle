@@ -1,0 +1,3 @@
+rootProject.name = 'components'
+include 'async-task'
+
